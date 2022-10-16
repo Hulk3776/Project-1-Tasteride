@@ -1,9 +1,9 @@
 const people = [
   {
-    img: "anas.png",
-    name: "Anas Parwez",
+    img: "anas.jpg",
+    name: "Akhil Sen Singh",
     job: "Mechanical Engineer",
-    text: `Hi,I am Anas Parwez . Although being a ${"Mechanical Engineer".bold()} . <br>  I seek my interest in ${`Front-end Web development`.bold()} <br> and in ${`Competitive Coding.`.bold()} `,
+    text: `Hi,I am Akhil Sen Singh . Although being a ${"Mechanical Engineer".bold()} . <br>  I seek my interest in ${`Front-end Web development`.bold()} <br> and in ${`Competitive Coding.`.bold()} `,
   },
   {
     img: "aryaman.jpeg",
